@@ -1,4 +1,8 @@
-# json_ka_app
+# Flutter: Drawer_App
+The app has a drawer tab on the left side with 2 options to naivagte Two pages as of now.
+Also the elevation is taken care of in iOS version and two different themes for iOS and Android.
+Further improvements will be done with time to this project.
+
 
 A new Flutter project.
 
